@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJS and Redux Toolkit.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/itsShubhamShinde](https://github.com/singamsai)
+- 👨‍💻 All of my projects are available at [https://github.com/singamsai](https://github.com/singamsai)
 
 - 💬 Ask me about **ReactJS, Redux, JavaScript, HTML, CSS.**
 
